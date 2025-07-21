@@ -1,0 +1,7 @@
+kitta no:, Location, Direction, aana, price, Availability
+
+101,         Kathmandu,  North,          4, 50000,   Available
+102,         Bhaktapur,  south,          5, 60000,   Available
+103,          Lalitpur,   east,          6, 70000,Not Available
+104,         Nepalgunj,   west,          8, 80000,   Available
+105,         Bharatpur,   west,          9, 90000, Available

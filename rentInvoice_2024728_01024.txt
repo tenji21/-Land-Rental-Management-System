@@ -1,0 +1,11 @@
+Rent Invoice
+
+Kitta Number: 103
+City:           Lalitpur
+Direction:    east
+Area:           6 anna
+Customer Name: Tenji
+Date and Time of Rent: 2024-07-28 00:10:24.010417
+
+Duration: 3 months
+Total Amount: NPR 210000.0
